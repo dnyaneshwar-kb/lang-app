@@ -19,22 +19,15 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    # FORCE install a specific Gradle version to avoid system clashes
+    # Install Gradle 8.2 directly and add to PATH
     - name: Setup Gradle
       uses: gradle/gradle-build-action@v2
       with:
         gradle-version: '8.2'
 
-    # Create the wrapper manually so the build script is happy
-    - name: Generate Gradle Wrapper
-      run: gradle wrapper
-
-    - name: Make Gradlew Executable
-      run: chmod +x gradlew
-
-    # Now build using the wrapper we just made
+    # Run gradle directly (no wrapper needed)
     - name: Build with Gradle
-      run: ./gradlew assembleDebug --stacktrace
+      run: gradle assembleDebug --stacktrace --no-daemon
 
     - name: Upload APK
       uses: actions/upload-artifact@v3
