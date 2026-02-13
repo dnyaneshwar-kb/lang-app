@@ -19,18 +19,19 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
 
-    # Install Gradle 8.2 directly and add to PATH
+    # Use the official action to set up Gradle 8.5 (matching local)
+    # This avoids wrapper issues and ensures the correct daemon environment
     - name: Setup Gradle
       uses: gradle/gradle-build-action@v2
       with:
-        gradle-version: '8.2'
+        gradle-version: '8.5'
 
-    # Run gradle directly (no wrapper needed)
     - name: Build with Gradle
-      run: gradle assembleDebug --stacktrace --no-daemon
+      run: gradle assembleDebug --stacktrace --warning-mode all
 
     - name: Upload APK
       uses: actions/upload-artifact@v3
+      if: success()
       with:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
