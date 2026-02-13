@@ -1,0 +1,85 @@
+[
+  {
+    "unit": 1,
+    "unitTitle": "Basic Greetings",
+    "lesson": 1,
+    "lessonTitle": "Hello",
+    "vocabulary": [
+      {"hanzi": "你好", "pinyin": "nǐ hǎo", "definition": "Hello", "audio": "nihao.mp3"},
+      {"hanzi": "您好", "pinyin": "nín hǎo", "definition": "Hello (polite)", "audio": "ninhao.mp3"},
+      {"hanzi": "你们", "pinyin": "nǐ men", "definition": "You (plural)", "audio": "nimen.mp3"},
+      {"hanzi": "对不起", "pinyin": "duì bu qǐ", "definition": "Sorry", "audio": "duibuqi.mp3"},
+      {"hanzi": "没关系", "pinyin": "méi guān xi", "definition": "It doesn't matter", "audio": "meiguanxi.mp3"}
+    ]
+  },
+  {
+    "unit": 1,
+    "unitTitle": "Basic Greetings",
+    "lesson": 2,
+    "lessonTitle": "Thank You",
+    "vocabulary": [
+      {"hanzi": "谢谢", "pinyin": "xiè xie", "definition": "Thank you", "audio": "xiexie.mp3"},
+      {"hanzi": "不客气", "pinyin": "bú kè qi", "definition": "You're welcome", "audio": "bukeqi.mp3"},
+      {"hanzi": "再见", "pinyin": "zài jiàn", "definition": "Goodbye", "audio": "zaijian.mp3"}
+    ]
+  },
+  {
+    "unit": 2,
+    "unitTitle": "Numbers & Dates",
+    "lesson": 1,
+    "lessonTitle": "Numbers 0-10",
+    "vocabulary": [
+      {"hanzi": "零", "pinyin": "líng", "definition": "zero", "audio": "ling.mp3"},
+      {"hanzi": "一", "pinyin": "yī", "definition": "one", "audio": "yi.mp3"},
+      {"hanzi": "二", "pinyin": "èr", "definition": "two", "audio": "er.mp3"},
+      {"hanzi": "三", "pinyin": "sān", "definition": "three", "audio": "san.mp3"},
+      {"hanzi": "四", "pinyin": "sì", "definition": "four", "audio": "si.mp3"},
+      {"hanzi": "五", "pinyin": "wǔ", "definition": "five", "audio": "wu.mp3"},
+      {"hanzi": "六", "pinyin": "liù", "definition": "six", "audio": "liu.mp3"},
+      {"hanzi": "七", "pinyin": "qī", "definition": "seven", "audio": "qi.mp3"},
+      {"hanzi": "八", "pinyin": "bā", "definition": "eight", "audio": "ba.mp3"},
+      {"hanzi": "九", "pinyin": "jiǔ", "definition": "nine", "audio": "jiu.mp3"},
+      {"hanzi": "十", "pinyin": "shí", "definition": "ten", "audio": "shi.mp3"}
+    ]
+  },
+  {
+    "unit": 3,
+    "unitTitle": "Family",
+    "lesson": 1,
+    "lessonTitle": "Family Members",
+    "vocabulary": [
+      {"hanzi": "爸爸", "pinyin": "bà ba", "definition": "Father", "audio": "baba.mp3"},
+      {"hanzi": "妈妈", "pinyin": "mā ma", "definition": "Mother", "audio": "mama.mp3"},
+      {"hanzi": "儿子", "pinyin": "ér zi", "definition": "Son", "audio": "erzi.mp3"},
+      {"hanzi": "女儿", "pinyin": "nǚ ér", "definition": "Daughter", "audio": "nver.mp3"}
+    ]
+  },
+  {
+    "unit": 4,
+    "unitTitle": "Pronouns & Basic Verbs",
+    "lesson": 1,
+    "lessonTitle": "Pronouns",
+    "vocabulary": [
+      {"hanzi": "我", "pinyin": "wǒ", "definition": "I, me", "audio": "wo.mp3"},
+      {"hanzi": "你", "pinyin": "nǐ", "definition": "You", "audio": "ni.mp3"},
+      {"hanzi": "他", "pinyin": "tā", "definition": "He, him", "audio": "ta_m.mp3"},
+      {"hanzi": "她", "pinyin": "tā", "definition": "She, her", "audio": "ta_f.mp3"},
+      {"hanzi": "我们", "pinyin": "wǒ men", "definition": "We, us", "audio": "women.mp3"}
+    ]
+  },
+  {
+    "unit": 4,
+    "unitTitle": "Pronouns & Basic Verbs",
+    "lesson": 2,
+    "lessonTitle": "Basic Verbs",
+    "vocabulary": [
+      {"hanzi": "是", "pinyin": "shì", "definition": "to be", "audio": "shi.mp3"},
+      {"hanzi": "有", "pinyin": "yǒu", "definition": "to have", "audio": "you.mp3"},
+      {"hanzi": "看", "pinyin": "kàn", "definition": "to look, watch", "audio": "kan.mp3"},
+      {"hanzi": "听", "pinyin": "tīng", "definition": "to listen", "audio": "ting.mp3"},
+      {"hanzi": "说", "pinyin": "shuō", "definition": "to speak", "audio": "shuo.mp3"},
+      {"hanzi": "读", "pinyin": "dú", "definition": "to read", "audio": "du.mp3"},
+      {"hanzi": "写", "pinyin": "xiě", "definition": "to write", "audio": "xie.mp3"}
+    ]
+  }
+]

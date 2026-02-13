@@ -1,0 +1,86 @@
+[
+    {
+        "unit": 1,
+        "unitTitle": "Unit 1: Introductions & Greetings",
+        "lesson": 1,
+        "lessonTitle": "I can speak a little Chinese",
+        "vocabulary": [
+            {
+                "hanzi": "会",
+                "pinyin": "huì",
+                "definition": "can; to be able to"
+            },
+            {
+                "hanzi": "说",
+                "pinyin": "shuō",
+                "definition": "to speak"
+            },
+            {
+                "hanzi": "一点儿",
+                "pinyin": "yìdiǎnr",
+                "definition": "a little; a bit"
+            },
+            {
+                "hanzi": "汉语",
+                "pinyin": "Hànyǔ",
+                "definition": "Chinese language"
+            }
+        ]
+    },
+    {
+        "unit": 1,
+        "unitTitle": "Unit 1: Introductions & Greetings",
+        "lesson": 2,
+        "lessonTitle": "Where are you from?",
+        "vocabulary": [
+            {
+                "hanzi": "哪儿",
+                "pinyin": "nǎr",
+                "definition": "where"
+            },
+            {
+                "hanzi": "国",
+                "pinyin": "guó",
+                "definition": "country"
+            },
+            {
+                "hanzi": "人",
+                "pinyin": "rén",
+                "definition": "person"
+            },
+            {
+                "hanzi": "那",
+                "pinyin": "nà",
+                "definition": "that"
+            }
+        ]
+    },
+    {
+        "unit": 2,
+        "unitTitle": "Unit 2: Daily Life",
+        "lesson": 1,
+        "lessonTitle": "What time is it now?",
+        "vocabulary": [
+            {
+                "hanzi": "现在",
+                "pinyin": "xiànzài",
+                "definition": "now"
+            },
+            {
+                "hanzi": "点",
+                "pinyin": "diǎn",
+                "definition": "o'clock"
+            },
+            {
+                "hanzi": "分",
+                "pinyin": "fēn",
+                "definition": "minute"
+            },
+            {
+                "hanzi": "中午",
+                "pinyin": "zhōngwǔ",
+                "definition": "noon"
+            }
+        ]
+    }
+]
